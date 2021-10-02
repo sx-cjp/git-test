@@ -3,8 +3,6 @@ package com.cui.git;
 /**
  * @author cuijp
  * @version 1.0
- * @description：
- * @Date 2021/10/2 17:58
  */
 public class GitTest {
 
@@ -13,5 +11,6 @@ public class GitTest {
         System.out.println("hello git2!");
         System.out.println("hello git3!");
         System.out.println("hello git4!");
+        System.out.println("hello git5!");
     }
 }
